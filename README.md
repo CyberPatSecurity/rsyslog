@@ -1,0 +1,2 @@
+# rsyslog
+istruzioni installazione Rsyslog
