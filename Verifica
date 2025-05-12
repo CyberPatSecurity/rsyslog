@@ -1,0 +1,2 @@
+sudo tail -f /var/log/fortinet.log
+sudo tcpdump -i any host 10.160.99.250 and port 514
